@@ -21,7 +21,7 @@ More Classes will be added to cover the others.
 
 #Highlighting Capabilities
 
-This is a very basic highlight that is suppose to be light using no JS - Made for developers to integrate into online communities.
+This is a very basic highlight that is suppose to be light using JS/CSS/HTML5 - Made for developers to integrate into online communities.
 
 
 

@@ -14,7 +14,7 @@ As of now there are Four (4) classes:
  - Code-Basic 
  - Code-Html
  - Code-CSS
- - Code-JS
+
  
 More Classes will be added to cover the others. 
 

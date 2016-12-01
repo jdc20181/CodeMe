@@ -3,16 +3,3 @@ background-color:	#D3D3D3; /*Light Gray Defaults*/
 color:black; /* Defaults*/
 font-size:16px; /*Default Size*/
 }
-.Code-Html{
-  background-color:#D3D3D3; /* Defaults */
-  color: #90EE90; /* Light Green */
-  font-size: 20px; /* HTML */
-}
-.Code-CSS{
-  background-color:#D3D3D3;
-  Color:	#E6E6FA; /*Lavender A light color on Grey. */
-  font-size: 20px; /*CSS*/
-}
-.Code-JS{
-  background-color:#D3D3D3;
-  color: 	#FFD700; /*Gold*/

@@ -11,10 +11,10 @@ To just highlight a line of code use this:
 
 As of now there are Four (4) classes:
 
- - Basic-Code 
- - HTML
- - CSS
- - JS
+ - Code-Basic 
+ - Code-Html
+ - Code-CSS
+ - Code-JS
  
 More Classes will be added to cover the others. 
 

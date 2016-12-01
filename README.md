@@ -9,14 +9,9 @@ To just highlight a line of code use this:
 `<code class="Basic-Code">HTML</code>`
 
 
-As of now there are Four (4) classes:
+The Basic Highlighting of the intial start of this project is pretty basic. Right now there is only one class to be used. 
 
- - Code-Basic 
- - Code-Html
- - Code-CSS
-
- 
-More Classes will be added to cover the others. 
+You can also not even use classes, but since this will support more than one language - there is a need for classes. 
 
 
 #Highlighting Capabilities

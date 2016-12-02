@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) <a href="https://github.com/jdc20181">jdc20181</a>2016 
+Copyright (c) jdc20181 2016 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

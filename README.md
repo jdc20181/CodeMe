@@ -18,7 +18,9 @@ You can also not even use classes, but since this will support more than one lan
 
 This is a very basic highlight that is suppose to be light using Jquery/CSS/HTML5/ - Made for developers to integrate into online communities.
 
+#Getting it ready
 
+To get the latest release - as well as a installation guide visit the `lib` folder.  
 
 
   

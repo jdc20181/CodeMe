@@ -16,7 +16,7 @@ You can also not even use classes, but since this will support more than one lan
 
 #Highlighting Capabilities
 
-This is a very basic highlight that is suppose to be light using Jquery/CSS/HTML5/ - Made for developers to integrate into online communities.
+This is a very basic highlight that is suppose to be light using Jquery/CSS/HTML5/ - Made for developers to integrate into online communities or even your website.
 
 #Getting it ready
 

@@ -28,6 +28,7 @@ To get the latest release - as well as a installation guide visit the `lib` fold
 <a href="https://jdc20181.github.io/CodeMe/"> Demo </a> is available. 
 
 You can also use JS or Jquery or even php maybe to replace a shorter syntax 
+
 with the `<code class="Code-Basic">Some</code>`
 
 As of now I do not have anything built in. 

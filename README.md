@@ -32,3 +32,11 @@ You can also use JS or Jquery or even php maybe to replace a shorter syntax
 with the `<code class="Code-Basic">Some</code>`
 
 As of now I do not have anything built in. 
+
+#About
+
+What happens with CodeMe is when you use the class - and with the Jquery/Js code, you can write code without it being executed. This helps prevent unformatted code, better presentations, etc. The possibilities are endless.
+
+The `<code` Tag has been around for a while, but with added Jquery - But any code put inside the tags are still executed. 
+Thats why CodeMe as well as hundreds of projects like CodeMe exist. 
+

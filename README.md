@@ -37,6 +37,9 @@ As of now I do not have anything built in.
 
 What happens with CodeMe is when you use the class - and with the Jquery/Js code, you can write code without it being executed. This helps prevent unformatted code, better presentations, etc. The possibilities are endless.
 
-The `<code>` Tag has been around for a while, but with added Jquery - But any code put inside the tags are still executed. 
+The `<code>` Tag has been around for a while, but  -  with any code put inside the tags are still executed. 
+
 Thats why CodeMe as well as hundreds of projects like CodeMe exist. 
+
+Using  The `<code` tags for easy use - and with jquery its easy to not execute it!
 

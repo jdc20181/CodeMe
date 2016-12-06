@@ -11,11 +11,7 @@ As more options flow through you may not wanna use that as you won't be able to 
 the colors for the different languages. 
 
 
-`.Code-Basic{
-background-color:	#D3D3D3; /*Light Gray Defaults*/
-color:black; /* Defaults*/
-font-size:16px; /*Default Size*/
-}`
+`.Code-Basic{background-color:#D3D3D3;color:black;font-size:16px}`
 
 
 

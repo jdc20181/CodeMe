@@ -1,17 +1,21 @@
-#What you need
-Call the CDN of Jquery `<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>` 
-Call your CSS File 
-Add the Jquery Code or use a Js file and call it. 
+#Update 0.0.2 New Installation Instructions
 
 
-#Min CSS:
+Easy installation:
 
-You can use the CSS without a Class by replacing the `.Code-Basic` with `code` and it will target the element `<code>` this is only good for those who wish to use the Simple Highlight - 
-As more options flow through you may not wanna use that as you won't be able to change
-the colors for the different languages. 
+First Call the JS File:
+`<!-- JS -->
+<script type="text/javascript" src="https://jdc20181.github.io/CodeMe/Lib/CodeMe.js"></script>`
+Next Call the CSS File:
+
+`<!-- CSS -->
+ <link rel="stylesheet" type="text/css" href="https://jdc20181.github.io/CodeMe/Lib/CodeMe.css">`
+Lastly Use the Syntax: 
+
+`<!--Basic Sytax Example -->
+<code class="Code-Basic"> .body{Color:red}</code>`
 
 
-`.Code-Basic{background-color:#D3D3D3;color:black;font-size:16px}`
 
 
 

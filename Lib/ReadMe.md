@@ -5,7 +5,9 @@ Easy installation:
 
 First Call the JS File:
 `<!-- JS -->
+
 <script type="text/javascript" src="https://jdc20181.github.io/CodeMe/Lib/CodeMe.js"></script>`
+
 Next Call the CSS File:
 
 `<!-- CSS -->

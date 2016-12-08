@@ -1,4 +1,4 @@
-#Update 0.0.2 New Installation Instructions
+#Update 0.1.1 New Installation Instructions
 
 
 Easy installation:

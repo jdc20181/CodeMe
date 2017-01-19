@@ -1,3 +1,15 @@
+#Version 0.1.2 Change Log
+
+The upcoming version will add another class that has a larger font. I am also debating on what to set the interval too, either leave it or do it more often. For lower quality servers, I could remove the function entirely in a different verison. 
+
+So an overview:
+
+ - Larger font
+ 
+ - More checking for more inputed executable text. 
+ 
+ - More Options for lower quality hosting services. 
+
 # CodeMe
 A Basic HTML Based -  Code highlighting Utility 
 

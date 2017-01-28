@@ -1,5 +1,16 @@
 .Code-Basic{
 background-color:#D3D3D3; /*Light Gray Defaults*/
 color:black; /* Defaults*/
-font-size:16px; /*Default Size*/
+font-size:25px; /*Default Size*/
 }
+.Code-White{
+  background-color:#333;
+  color:#FFFFFF; /* This class is not to be changed - its a special Class*/
+  font-size:20px 
+}
+.Code-Black{
+background-color:#FFFFFF; /* This class is not to be changed - its a special Class*/
+  color:#333;
+  font-size:20px;
+}
+    

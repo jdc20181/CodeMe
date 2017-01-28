@@ -1,14 +1,18 @@
+#Version 0.1.3 *Planned*
+
+ - Media queries adding a fix for mobile screens.
+ 
+ - Improving the performance of the script
+ 
+
 #Version 0.1.2 Change Log
 
-The upcoming version will add another class that has a larger font. I am also debating on what to set the interval too, either leave it or do it more often. For lower quality servers, I could remove the function entirely in a different verison. 
+*updated and edited*
 
-So an overview:
-
- - Larger font
+ - Added two new classes 
  
- - More checking for more inputed executable text. 
+ - Increased Font Size
  
- - More Options for lower quality hosting services. 
 
 # CodeMe
 A Basic HTML Based -  Code highlighting Utility 
